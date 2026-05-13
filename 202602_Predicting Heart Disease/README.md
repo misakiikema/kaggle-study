@@ -1,4 +1,4 @@
-# 2026-01 Heart Disease Prediction — 最終版（vFinal）
+# 2026-02 Heart Disease Prediction — 最終版（vFinal）
 
 ## 目的と要約
 KaggleのHeart Disease予測コンペにおいて、testデータの各idについて心臓病が「Presence（あり）」となる確率を予測するモデルを構築した。  
